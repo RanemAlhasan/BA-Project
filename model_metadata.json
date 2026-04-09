@@ -1,0 +1,45 @@
+{
+  "model_type": "GradientBoostingClassifier (sklearn Pipeline)",
+  "why_selected": [
+    "Highest accuracy among 3 candidates tested",
+    "Highest ROC-AUC - best class separation",
+    "Highest F1 - best precision-recall balance",
+    "Ensemble method as required by rubric",
+    "Compatible with SHAP explainability"
+  ],
+  "models_compared": [
+    "Logistic Regression",
+    "Random Forest",
+    "Gradient Boosting"
+  ],
+  "problem_type": "Binary Classification",
+  "target": "Is_Profitable",
+  "classes": {
+    "0": "Loss",
+    "1": "Profitable"
+  },
+  "all_features": [
+    "Category",
+    "Sub-Category",
+    "Segment",
+    "Region",
+    "Ship Mode",
+    "Discount_Tier",
+    "Discount",
+    "Quantity",
+    "Order_Month",
+    "Order_Year",
+    "Order_Quarter",
+    "Order_DayOfWeek",
+    "Shipping_Days"
+  ],
+  "performance": {
+    "accuracy": 0.94,
+    "precision": 0.9532,
+    "recall": 0.9733,
+    "f1": 0.9632,
+    "roc_auc": 0.9813
+  },
+  "training_rows": 7995,
+  "saved_at": "2026-04-09 10:04:51.107254"
+}

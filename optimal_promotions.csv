@@ -1,0 +1,37 @@
+Segment,Category,Region,Max_Safe_Discount,Max_Safe_Discount_Pct
+Consumer,Furniture,Central,0.2,20
+Consumer,Furniture,East,0.2,20
+Consumer,Furniture,South,0.2,20
+Consumer,Furniture,West,0.2,20
+Consumer,Office Supplies,Central,0.25,25
+Consumer,Office Supplies,East,0.25,25
+Consumer,Office Supplies,South,0.25,25
+Consumer,Office Supplies,West,0.25,25
+Consumer,Technology,Central,0.25,25
+Consumer,Technology,East,0.25,25
+Consumer,Technology,South,0.4,40
+Consumer,Technology,West,0.25,25
+Corporate,Furniture,Central,0.2,20
+Corporate,Furniture,East,0.2,20
+Corporate,Furniture,South,0.2,20
+Corporate,Furniture,West,0.2,20
+Corporate,Office Supplies,Central,0.25,25
+Corporate,Office Supplies,East,0.25,25
+Corporate,Office Supplies,South,0.25,25
+Corporate,Office Supplies,West,0.25,25
+Corporate,Technology,Central,0.25,25
+Corporate,Technology,East,0.25,25
+Corporate,Technology,South,0.25,25
+Corporate,Technology,West,0.25,25
+Home Office,Furniture,Central,0.2,20
+Home Office,Furniture,East,0.2,20
+Home Office,Furniture,South,0.2,20
+Home Office,Furniture,West,0.2,20
+Home Office,Office Supplies,Central,0.25,25
+Home Office,Office Supplies,East,0.25,25
+Home Office,Office Supplies,South,0.25,25
+Home Office,Office Supplies,West,0.25,25
+Home Office,Technology,Central,0.25,25
+Home Office,Technology,East,0.25,25
+Home Office,Technology,South,0.25,25
+Home Office,Technology,West,0.25,25
