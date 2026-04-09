@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+
+# Large / generated files
+*.pkl
+*.csv
+*.png
+*.numbers
